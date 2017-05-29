@@ -15,7 +15,7 @@ Your solution must have a front-end, a back-end and a database.
 Each user must have: name, cpf (unique), email and birth date.
 
 
-## As a user I want to...
+## As a product owner I want to...
 * have a page where I can list all users with pagination
 * have a page where I can see details of a user
 * have a page where I can create a user
@@ -36,7 +36,7 @@ Each user must have: name, cpf (unique), email and birth date.
 * Beauty of the pages
 * Organization and architecture
 * Do the forms have field validation?
-* Do the the forms prevent multiple submit?
+* Do the forms prevent multiple submit?
 * Error messages
 
 ## Optional
